@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/application"
+        android:title="应用中心"
+        android:icon="@mipmap/application"
+        ></item>settings
+    <item
+        android:id="@+id/message"
+        android:title="消息中心"
+        android:icon="@mipmap/message"
+        ></item>
+    <item
+        android:id="@+id/setting"
+        android:title="设置"
+        android:icon="@mipmap/setting"
+        ></item>
+
+</menu>
